@@ -1,0 +1,193 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+    font-family: system-ui;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+footer {
+    background-color: #272727;
+    padding: 30px;
+    text-align: center;
+    font-size: larger;
+}
+
+.navl {
+    color: #fff;
+    text-decoration: none;
+}
+
+.aboutc {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px 0px 100px 0px;
+}
+
+.abouth {
+    margin: 55px;
+    font-size: 60px;
+}
+
+.d {
+    width: 55%;
+}
+
+.h {
+    margin: 55px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.tc {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 100px 0px 100px;
+}
+
+.c {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    height: 300px;
+    width: 17%;
+
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.t {
+    padding-top: 15px;
+}
+
+.wsc {
+    margin: 100px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+}
+
+.ws {
+    background-color: #272727;
+    width: 600px;
+    height: 700px;
+}
+
+.rc {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px 0px 100px 0px;
+}
+
+.r {
+    background-color: #272727;
+    width: 600px;
+    height: 700px;
+}
+
+#pwrc {
+    border-color: #f95a00;
+}
+
+#wc {
+    border-color: #1894ff;
+}
+
+#hcc {
+    border-color: #a585ff;
+}
+
+#ec {
+    border-color: #19b899;
+}
+
+#oc {
+    border-color: #fff;
+}
+
+.desc {
+    width: 66%;
+    font-size: medium;
+}
+
+.l {
+    text-decoration: none;
+    color: #fff;
+    width: 45%;
+    border-radius: 5px;
+}
+
+#pwrl {
+    background-color: #a33b00;
+}
+
+#pwrl:hover {
+    background-color: #4e1c00;
+}
+
+#wl {
+    background-color: #1063aa;
+}
+
+#wl:hover {
+    background-color: #083155;
+}
+
+#hcl {
+    background-color: #6e59aa;
+}
+
+#hcl:hover {
+    background-color: #372c55;
+}
+
+#el {
+    background-color: #0d6352;
+}
+
+#el:hover {
+    background-color: #072e28;
+}
+
+#ol {
+    background-color: #aaaaaa;
+}
+
+#ol:hover {
+    background-color: #555555;
+}
+
+.logo {
+    width: 120px;
+}
+
+.logo_os {
+    width: 300px;
+}
